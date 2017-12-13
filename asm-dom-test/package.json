@@ -1,0 +1,21 @@
+{
+  "name": "asm-dom-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asm-dom": "^0.4.0"
+  },
+  "devDependencies": {
+    "arraybuffer-loader": "^0.2.2",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
